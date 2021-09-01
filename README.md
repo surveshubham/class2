@@ -1,2 +1,2 @@
 # class2
-assignment
+assignment 1
